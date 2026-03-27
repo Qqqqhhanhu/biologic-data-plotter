@@ -27,3 +27,10 @@ AI was used for:
 All code was reviewed, modified, and understood by the author.
 
 The final implementation reflects my own understanding of the project requirements.
+
+## How to Run
+
+Move into the `src` folder and run:
+
+```bash
+python -m biologic_plotter.main
