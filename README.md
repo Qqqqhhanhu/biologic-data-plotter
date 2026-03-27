@@ -14,3 +14,16 @@ The program allows users to:
 - Create customizable plots using any detected or derived parameter as x or y axis
 
 The current version is designed for common BioLogic-exported CSV/mpt formats and may require further adaptation for all experiment types.
+
+## AI Usage Disclosure
+
+This project was developed with the assistance of AI tools (ChatGPT).
+
+AI was used for:
+- Code structure suggestions
+- Debugging help
+- Improving code readability
+
+All code was reviewed, modified, and understood by the author.
+
+The final implementation reflects my own understanding of the project requirements.
